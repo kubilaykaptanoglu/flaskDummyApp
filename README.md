@@ -35,4 +35,4 @@ Content-Length: 17
 Connection: close
 ```
 
-If you need sample application for livenss and readiness probe testing. You can use this application.
+If you need sample application for liveness and readiness probe testing. You can use this application.
